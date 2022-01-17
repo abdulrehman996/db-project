@@ -110,5 +110,10 @@ namespace db_project
             mainmenu obj = new mainmenu();
             obj.ShowDialog();
         }
-    }
+
+		private void panel1_Paint(object sender, PaintEventArgs e)
+		{
+
+		}
+	}
 }

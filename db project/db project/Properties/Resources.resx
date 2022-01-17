@@ -118,25 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="types-of-restaurants_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\types-of-restaurants_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g6WHKt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\g6WHKt.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blurred-soft-lamp-bedroom-background-260nw-339089888" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\blurred-soft-lamp-bedroom-background-260nw-339089888.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GettyImages-1207490255-e1615485559611" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GettyImages-1207490255-e1615485559611.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maxresdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maxresdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wp9764105" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\wp9764105.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="23-Pitt-Road-Springfield-NJ-0088-Web-47236bb26d304e9188c2f8f5668e2990" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\23-Pitt-Road-Springfield-NJ-0088-Web-47236bb26d304e9188c2f8f5668e2990.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="1_z98x8GL9tOW5rZLuwN0_pA" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1_z98x8GL9tOW5rZLuwN0_pA.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="190624113640-caesars-palace-stock-super-169" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\190624113640-caesars-palace-stock-super-169.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="23-Pitt-Road-Springfield-NJ-0088-Web-47236bb26d304e9188c2f8f5668e2990" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\23-Pitt-Road-Springfield-NJ-0088-Web-47236bb26d304e9188c2f8f5668e2990.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="hp-banner-1-1024x576" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\hp-banner-1-1024x576.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="istockphoto-1287029258-170667a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\istockphoto-1287029258-170667a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wp97641051" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\wp9764105.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="istockphoto-1090582556-170667a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\istockphoto-1090582556-170667a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="traits-successful-restaurant-business" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\traits-successful-restaurant-business.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="GettyImages-1207490255-e1615485559611" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\GettyImages-1207490255-e1615485559611.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="types-of-restaurants_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\types-of-restaurants_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="maxresdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\maxresdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="blurred-soft-lamp-bedroom-background-260nw-3390898881" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\blurred-soft-lamp-bedroom-background-260nw-339089888.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

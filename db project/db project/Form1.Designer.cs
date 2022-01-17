@@ -44,7 +44,7 @@ namespace db_project
 			// label1
 			// 
 			this.label1.AutoSize = true;
-			this.label1.BackColor = System.Drawing.Color.WhiteSmoke;
+			this.label1.BackColor = System.Drawing.Color.Transparent;
 			this.label1.Location = new System.Drawing.Point(10, 89);
 			this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.label1.Name = "label1";
@@ -56,8 +56,8 @@ namespace db_project
 			// 
 			this.button1.BackColor = System.Drawing.Color.LimeGreen;
 			this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-			this.button1.Location = new System.Drawing.Point(125, 223);
-			this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+			this.button1.Location = new System.Drawing.Point(31, 223);
+			this.button1.Margin = new System.Windows.Forms.Padding(2);
 			this.button1.Name = "button1";
 			this.button1.Size = new System.Drawing.Size(195, 62);
 			this.button1.TabIndex = 1;
@@ -68,7 +68,7 @@ namespace db_project
 			// textBox1
 			// 
 			this.textBox1.Location = new System.Drawing.Point(112, 87);
-			this.textBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+			this.textBox1.Margin = new System.Windows.Forms.Padding(2);
 			this.textBox1.Name = "textBox1";
 			this.textBox1.Size = new System.Drawing.Size(246, 20);
 			this.textBox1.TabIndex = 2;
@@ -76,7 +76,7 @@ namespace db_project
 			// textBox2
 			// 
 			this.textBox2.Location = new System.Drawing.Point(112, 149);
-			this.textBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+			this.textBox2.Margin = new System.Windows.Forms.Padding(2);
 			this.textBox2.Name = "textBox2";
 			this.textBox2.Size = new System.Drawing.Size(246, 20);
 			this.textBox2.TabIndex = 4;
@@ -84,7 +84,7 @@ namespace db_project
 			// label2
 			// 
 			this.label2.AutoSize = true;
-			this.label2.BackColor = System.Drawing.Color.WhiteSmoke;
+			this.label2.BackColor = System.Drawing.Color.Transparent;
 			this.label2.Location = new System.Drawing.Point(10, 151);
 			this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.label2.Name = "label2";
@@ -96,7 +96,7 @@ namespace db_project
 			// 
 			this.label3.AutoEllipsis = true;
 			this.label3.AutoSize = true;
-			this.label3.BackColor = System.Drawing.SystemColors.ControlLightLight;
+			this.label3.BackColor = System.Drawing.SystemColors.ActiveCaption;
 			this.label3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
 			this.label3.FlatStyle = System.Windows.Forms.FlatStyle.System;
 			this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
@@ -113,8 +113,8 @@ namespace db_project
 			// 
 			this.button2.BackColor = System.Drawing.Color.Red;
 			this.button2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-			this.button2.Location = new System.Drawing.Point(9, 406);
-			this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+			this.button2.Location = new System.Drawing.Point(191, 317);
+			this.button2.Margin = new System.Windows.Forms.Padding(2);
 			this.button2.Name = "button2";
 			this.button2.Size = new System.Drawing.Size(83, 42);
 			this.button2.TabIndex = 6;
@@ -125,6 +125,7 @@ namespace db_project
 			// panel1
 			// 
 			this.panel1.BackColor = System.Drawing.Color.Transparent;
+			this.panel1.Controls.Add(this.button2);
 			this.panel1.Controls.Add(this.button3);
 			this.panel1.Controls.Add(this.label3);
 			this.panel1.Controls.Add(this.button1);
@@ -133,7 +134,7 @@ namespace db_project
 			this.panel1.Controls.Add(this.label1);
 			this.panel1.Controls.Add(this.textBox1);
 			this.panel1.Location = new System.Drawing.Point(194, 28);
-			this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+			this.panel1.Margin = new System.Windows.Forms.Padding(2);
 			this.panel1.Name = "panel1";
 			this.panel1.Size = new System.Drawing.Size(440, 421);
 			this.panel1.TabIndex = 7;
@@ -142,7 +143,7 @@ namespace db_project
 			// 
 			this.button3.BackColor = System.Drawing.Color.LimeGreen;
 			this.button3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-			this.button3.Location = new System.Drawing.Point(125, 289);
+			this.button3.Location = new System.Drawing.Point(230, 223);
 			this.button3.Margin = new System.Windows.Forms.Padding(2);
 			this.button3.Name = "button3";
 			this.button3.Size = new System.Drawing.Size(195, 62);
@@ -155,12 +156,11 @@ namespace db_project
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.BackgroundImage = global::db_project.Properties.Resources._190624113640_caesars_palace_stock_super_169;
+			this.BackgroundImage = global::db_project.Properties.Resources.wp9764105;
 			this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
 			this.ClientSize = new System.Drawing.Size(836, 458);
-			this.Controls.Add(this.button2);
 			this.Controls.Add(this.panel1);
-			this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+			this.Margin = new System.Windows.Forms.Padding(2);
 			this.Name = "Form1";
 			this.Text = "login";
 			this.panel1.ResumeLayout(false);

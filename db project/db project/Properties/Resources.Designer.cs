@@ -93,9 +93,69 @@ namespace db_project.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap blurred_soft_lamp_bedroom_background_260nw_339089888 {
+            get {
+                object obj = ResourceManager.GetObject("blurred-soft-lamp-bedroom-background-260nw-339089888", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap blurred_soft_lamp_bedroom_background_260nw_3390898881 {
+            get {
+                object obj = ResourceManager.GetObject("blurred-soft-lamp-bedroom-background-260nw-3390898881", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap g6WHKt {
+            get {
+                object obj = ResourceManager.GetObject("g6WHKt", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap GettyImages_1207490255_e1615485559611 {
             get {
                 object obj = ResourceManager.GetObject("GettyImages-1207490255-e1615485559611", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hp_banner_1_1024x576 {
+            get {
+                object obj = ResourceManager.GetObject("hp-banner-1-1024x576", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap istockphoto_1090582556_170667a {
+            get {
+                object obj = ResourceManager.GetObject("istockphoto-1090582556-170667a", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap istockphoto_1287029258_170667a {
+            get {
+                object obj = ResourceManager.GetObject("istockphoto-1287029258-170667a", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -126,6 +186,26 @@ namespace db_project.Properties {
         internal static System.Drawing.Bitmap types_of_restaurants_4 {
             get {
                 object obj = ResourceManager.GetObject("types-of-restaurants_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap wp9764105 {
+            get {
+                object obj = ResourceManager.GetObject("wp9764105", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap wp97641051 {
+            get {
+                object obj = ResourceManager.GetObject("wp97641051", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

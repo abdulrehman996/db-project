@@ -191,5 +191,23 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="wp9764105.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="istockphoto-1287029258-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="istockphoto-1090582556-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="g6WHKt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="blurred-soft-lamp-bedroom-background-260nw-339089888.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="hp-banner-1-1024x576.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
